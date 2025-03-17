@@ -1,2 +1,2 @@
 # AI-Driven-2D-Story
-This project is a 2D Unity-based interactive storytelling game that integrates ChatGPT to create a dynamic and evolving narrative. 
+This project is a 2D Unity-based interactive storytelling game that integrates ChatGPT to create a dynamic and evolving narrative. Players can input text to interact with the story, and ChatGPT generates real-time responses that influence both the dialogue and the game’s environment, including background changes. The project aims to merge AI-driven storytelling with Unity’s powerful game engine to offer a unique, personalized gaming experience. Currently, the project is in development, with ongoing work to resolve API integration issues and further refine gameplay mechanics.
